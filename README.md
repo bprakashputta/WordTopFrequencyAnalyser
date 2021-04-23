@@ -1,5 +1,5 @@
 ### WordTopFrequencyAnalyser
-It is an Dictionary iterator API. Implemented a Maven project to parse any document and find out keywords and their patterns, number of occurences in the document. 
+It is a Dictionary iterator API. Implemented a Maven project to parse any document and find out keywords and their patterns, number of occurences in the document. 
 
 ### Tech Stack
 • Java\
